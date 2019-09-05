@@ -2,7 +2,7 @@
   "name": "tweetbox",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/danielkpodo/tweetbox.git",
+  "homepage": "https://danielkpodo.github.io/tweetbox",
   "dependencies": {
     "font-awesome": "^4.7.0",
     "gh-pages": "^2.1.1",
