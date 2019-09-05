@@ -9,9 +9,6 @@ import RetweetButton from "./components/RetweetButton";
 import LikeButton from "./components/LikeButton";
 import MoreOptionsButton from "./components/MoreOptionsButton";
 class App extends Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
     const { tweet } = this.props;
     return (
