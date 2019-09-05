@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tweetbox/static/css/main.f122fe79.chunk.css",
+    "main.js": "/tweetbox/static/js/main.93169798.chunk.js",
+    "main.js.map": "/tweetbox/static/js/main.93169798.chunk.js.map",
+    "runtime~main.js": "/tweetbox/static/js/runtime~main.1874c902.js",
+    "runtime~main.js.map": "/tweetbox/static/js/runtime~main.1874c902.js.map",
+    "static/css/2.281b3e29.chunk.css": "/tweetbox/static/css/2.281b3e29.chunk.css",
+    "static/js/2.5ef1268a.chunk.js": "/tweetbox/static/js/2.5ef1268a.chunk.js",
+    "static/js/2.5ef1268a.chunk.js.map": "/tweetbox/static/js/2.5ef1268a.chunk.js.map",
+    "index.html": "/tweetbox/index.html",
+    "precache-manifest.b8506beefdf374666896eca7aee2d1f6.js": "/tweetbox/precache-manifest.b8506beefdf374666896eca7aee2d1f6.js",
+    "service-worker.js": "/tweetbox/service-worker.js",
+    "static/css/2.281b3e29.chunk.css.map": "/tweetbox/static/css/2.281b3e29.chunk.css.map",
+    "static/css/main.f122fe79.chunk.css.map": "/tweetbox/static/css/main.f122fe79.chunk.css.map",
+    "static/media/font-awesome.min.css": "/tweetbox/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
