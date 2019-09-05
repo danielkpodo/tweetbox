@@ -1,5 +1,6 @@
 import React from "react";
 import tweetData from "./tweetData";
+import "font-awesome/css/font-awesome.min.css";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
